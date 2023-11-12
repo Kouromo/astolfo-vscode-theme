@@ -1,0 +1,21 @@
+{
+  "name": "astolfo-theme",
+  "displayName": "Astolfo Color Theme",
+  "description": "Color theme that change the color of Visual Studio Code with cute Astolfo theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astolfo Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Astolfo Theme-color-theme.json"
+      }
+    ]
+  }
+}
