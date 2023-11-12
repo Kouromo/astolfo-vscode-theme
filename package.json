@@ -2,8 +2,21 @@
   "name": "astolfo-theme",
   "displayName": "Astolfo Color Theme",
   "description": "Color theme that change the color of Visual Studio Code with cute Astolfo theme.",
-  "icon": "./img/logo.png",
+  "icon": "images/logo.png",
   "version": "0.0.1",
+  "publisher": "Kouromo-Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kouromo/astolfo-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "high contrast",
+    "pink",
+    "femboy",
+    "astolfo"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },
