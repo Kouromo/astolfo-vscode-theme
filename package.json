@@ -2,6 +2,7 @@
   "name": "astolfo-theme",
   "displayName": "Astolfo Color Theme",
   "description": "Color theme that change the color of Visual Studio Code with cute Astolfo theme.",
+  "icon": "./img/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
