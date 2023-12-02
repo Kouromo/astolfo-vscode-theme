@@ -22,7 +22,6 @@ To set up the Astolfo wallpaper in Visual Studio Code, follow these steps:
     "pointer-events": "none",
     "position": "absolute",
     "z-index": "99999",
-    "width": "70%",
     "height": "100%",
     "margin-left": "30%",
     "background-position": "right",
